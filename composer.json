@@ -1,0 +1,7 @@
+{
+    "name": "radsectors-irl/resume",
+    "description": "Marc A Hester",
+    "require": {
+        "dompdf/dompdf": "*"
+    }
+}

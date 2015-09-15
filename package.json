@@ -1,0 +1,15 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume",
+  "private": false,
+  "author": "Marc A Hester <marc@hester.be> (http://marc.hester.be)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radsectors/resume.git"
+  },
+  "devDependencies": {
+    "marked": "^0.3.19"
+  },
+  "homepage": "https://github.com/radsectors/resume#readme"
+}

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./node_modules/.bin/marked README.md -o resume.html

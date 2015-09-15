@@ -1,0 +1,5 @@
+.vscode
+cover-letters
+node_modules
+vendor
+composer.lock

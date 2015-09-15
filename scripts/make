@@ -1,0 +1,3 @@
+#!/bin/sh
+./scripts/make-html
+./scripts/make-pdf.php
